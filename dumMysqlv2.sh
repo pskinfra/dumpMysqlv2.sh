@@ -27,8 +27,8 @@
 # Ajustado em: 22/06/2017 
 # Por: Tiago Silva -  tleite@bsd.com.br
 
-USER="----"
-PASSWORD="----"
+USER="USER"
+PASSWORD="PASS"
 OUTPUT="/var/mysql_dump_tmp"
 LOG="/var/log/mysql_backup"
 ARQUIVO_LOG="$LOG/log_backup_`date +%Y%m%d`.log"
